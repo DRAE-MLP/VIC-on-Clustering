@@ -1,4 +1,5 @@
-# VIC-on-LatentFingerprintsClustering
+# VIC-on-Clustering
+
 The present project validates data sets with a Validity Index using Supervised Classifiers (VIC).
 
 Author: Daniela Gómez Cravioto
