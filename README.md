@@ -1,6 +1,6 @@
 # VIC-on-Clustering
 
-The present project validates data sets with a Validity Index using Supervised Classifiers (VIC).
+This project validates data sets withthea Validity Index using Supervised Classifiers (VIC) [1].
 
 Author: Daniela Gómez Cravioto
 
