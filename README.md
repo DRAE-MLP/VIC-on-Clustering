@@ -1,6 +1,6 @@
 # VIC-on-Clustering
 
-This project validates data sets with the Validity Index using Supervised Classifiers (VIC) [1].
+This project validates a lantent fingerprint dataset with the Validity Index using Supervised Classifiers (VIC) [1].
 
 
 ## Libraries Used
