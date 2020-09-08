@@ -3,7 +3,7 @@
 This project validates data sets with the Validity Index using Supervised Classifiers (VIC) [1].
 
 
-## Built With
+## Libraries
 
 * [Sci-kit](https://scikit-learn.org/stable/) - The framework used for the models
 * [Pandas](https://pandas.pydata.org) - DataFrame framework
