@@ -2,6 +2,9 @@
 
 This project validates a lantent fingerprint dataset with the Validity Index using Supervised Classifiers (VIC) [1].
 
+**Objective**
+
+Find the best partition to discretize the continuous target variable ‘score_change’ in order to improve the identification of latent fingerprints. The goal was to find the partition that maximizes the evaluation metric. 
 
 ## Libraries Used
 
