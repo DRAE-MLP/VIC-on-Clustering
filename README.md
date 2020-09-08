@@ -5,8 +5,8 @@ This project validates data sets with the Validity Index using Supervised Classi
 
 ## Libraries Used
 
-* [Sci-kit](https://scikit-learn.org/stable/) - The framework used for the models
-* [Pandas](https://pandas.pydata.org) - DataFrame framework
+* [Sci-kit](https://scikit-learn.org/stable/)
+* [Pandas](https://pandas.pydata.org) 
 
 ## Jupyter Notebooks
 
