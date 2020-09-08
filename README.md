@@ -2,15 +2,25 @@
 
 This project validates data sets with the Validity Index using Supervised Classifiers (VIC) [1].
 
-Author: Daniela Gómez Cravioto
 
-Author: Ramón Díaz Ramos
+## Built With
 
-Author: Michael Zenkl Galaz
+* [Sci-kit](https://scikit-learn.org/stable/) - The framework used for the models
+* [Pandas](https://pandas.pydata.org) - DataFrame framework
+
+## Authors
+
+Daniela Gómez Cravioto
+
+Ramón Díaz Ramos
+
+Michael Zenkl Galaz
 
 Date of creation: September 8th 2020
 
 ***Results***
+
+
 
 ***Bibliography***
 
