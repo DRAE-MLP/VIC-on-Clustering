@@ -2,8 +2,11 @@
 The present project validates data sets with a Validity Index using Supervised Classifiers (VIC).
 
 Author: Daniela Gómez Cravioto
+
 Author: Ramón Díaz Ramos
+
 Author: Michael Zenkl Galaz
+
 Date of creation: September 8th 2020
 
 **Bibliography**
