@@ -54,6 +54,7 @@ def vic_multi_class_auc(df, classifier, scaler, cv):
 
     return (df.columns[-1], results)
 
+
 def collect_result(result):
     '''
     This function is for the collector method of parellelization of the asynchronus method apply
